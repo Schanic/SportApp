@@ -1,0 +1,11 @@
+com\mycompany\sportapp\bean\SportBean.class
+com\mycompany\sportapp\ConnectionFactory.class
+com\mycompany\sportapp\Filters\AuthFilter.class
+com\mycompany\sportapp\bean\Credentialsbeans.class
+com\mycompany\sportapp\entities\GamesStatistic.class
+com\mycompany\sportapp\resources\JavaEE8Resource.class
+com\mycompany\sportapp\entities\Credentials.class
+com\mycompany\sportapp\resources\SportResources.class
+com\mycompany\sportapp\entities\SportStatistic.class
+com\mycompany\sportapp\Filters\PoweredFilter.class
+com\mycompany\sportapp\JAXRSConfiguration.class
