@@ -21,11 +21,9 @@ public class SportStatistic {
         this.Points = Points;
 
     }
-
     public SportStatistic() {
-
+        
     }
-
     public int getId() {
         return id;
     }
